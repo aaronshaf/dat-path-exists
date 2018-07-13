@@ -1,0 +1,8 @@
+{
+  "name": "dat-path-exists",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aaronshaf/dat-path-exists.git",
+  "author": "Aaron Shafovaloff <aaronshaf@gmail.com>",
+  "license": "MIT"
+}
